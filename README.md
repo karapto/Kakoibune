@@ -6,7 +6,9 @@
 
 This guide assumes that you have installed python 3.x on your machine, preferably python 3.7 and above.
 
-'''pip install -r requirements.txt'''
+```
+$ pip install -r requirements.txt
+```
 
 ### Generating kml file
 
