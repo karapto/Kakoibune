@@ -10,6 +10,12 @@ This guide assumes that you have installed python 3.x on your machine, preferabl
 $ pip install -r requirements.txt
 ```
 
+### Prepare AIS Dataset
+
+You can get it from the following link;
+
+https://marinecadastre.gov/ais/
+
 ### Generating kml file
 
 https://earth.google.com/web/
