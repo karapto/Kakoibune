@@ -35,6 +35,10 @@ Press the back button in the upper left corner, press the three dots next to the
 
 ### Counting vessels within the geofence using AIS data
 
+Running main.py will display the geofences you have defined and the Maritime Mobile Service Identity (MMSI) of the vessels within them.
+
 ```
 $ python main.py otaru.kml AIS_2023_01_01.csv
+[(140.8536424990038, 43.21877081834404), (140.9166818015721, 43.16569868534197), (141.0740979141997, 43.17610839426013), (141.0879242560119, 43.25249043367866), (141.0249118384166, 43.32024331113249), (140.8634812977587, 43.29555835250518), (140.8536424990038, 43.21877081834404)]
+431159000
 ```
